@@ -1,0 +1,40 @@
+body {
+    background: #3e84d6;
+}
+
+h1 {
+    color: white;
+}
+
+h1 {
+    padding-top: 100px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+section {
+    height: 500px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+input[type="number"] {
+    margin-top: 40px;
+    width: 150px;
+}
+
+label, select {
+    margin-left: 20px;
+}
+
+p {
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+}
+
+select {
+    margin-top: 30px;
+}
